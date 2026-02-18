@@ -1,6 +1,6 @@
 # To-Do App
 
-This is a demo to-do list application built with HTML, CSS, JavaScript, and React for demo purposes.
+This is a demo to-do list application built with HTML, CSS, JavaScript, and React.
 
 ## Features
 
